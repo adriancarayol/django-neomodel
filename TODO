@@ -1,3 +1,4 @@
 - class view integration
 - django debug tool bar interop (w rest interface)
 - add signals to relationships
+- integration with django admin
